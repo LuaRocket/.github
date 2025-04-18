@@ -1,6 +1,6 @@
 # 🚀 Welcome to Rocket!
 
-[LuaRocket](https://github.com/LuaRocket) is the organization for the Rocket project. The Rocket project project and its organization are owned by [znci](https://github.com/znci), which has a whole host of other projects and information about the team. The Rocket project is a Minecraft plguin that allows users to easily write their own scripts in Lua to customize their servers.
+[LuaRocket](https://github.com/LuaRocket) is the organization for the Rocket project. The Rocket project and its organization are owned by [znci](https://github.com/znci), which has a whole host of other projects and information about the team. The Rocket project is a Minecraft plguin that allows users to easily write their own scripts in Lua to customize their servers.
 
 ## Repositories
 - 🚀 [Rocket](https://github.com/LuaRocket/rocket) is the repository that holds all plugin code for the Rocket project.
