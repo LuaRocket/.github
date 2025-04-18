@@ -9,6 +9,6 @@ The Rocket project is a Minecraft plguin that allows users to easily write their
 - 🧵 [Twine](https://github.com/LuaRocket/twine) is a wrapper library around LuaJ that makes it easier to define tables, values, and globals for use in LuaJ projects.
 - 📘 [Docs](https://github.com/LuaRocket/docs) holds the VitePress documentation files and Pages hosting.
 - 🧑‍💻 [LSP](https://github.com/LuaRocket/lsp) is the LSP plugin for the Lua Language Server VSCode extension that grants Intellisense and other useful features and autocompletions.
-- 🎓 [Exmaples](https://github.com/LuaRocket/examples) has many useful example projects that you can use to learn how Rocket works.
+- 🎓 [Examples](https://github.com/LuaRocket/examples) has many useful example projects that you can use to learn how Rocket works.
 
 Thank you for contributing to Rocket!
